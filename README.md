@@ -22,4 +22,5 @@ This project analyzes sales data for Allias Megastore using Market Basket Analys
 
 ## Full Report  
 To explore the full analysis including code and key takeaways, [view the complete Jupyter Notebook](./D599%20Task%203.ipynb).
+
 You can also view the formal write-up.
