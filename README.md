@@ -21,6 +21,6 @@ This project analyzes 52,000 transactions from Allias Megastore using Market Bas
 - mlxtend  
 
 ## Full Report  
-To explore the full analysis including code and key takeaways, [view the complete Jupyter Notebook](./D599%20Task%203.ipynb).
+To explore the full analysis including code and key takeaways, [view the complete Jupyter Notebook](./Market%20Basket%20Analysis.ipynb).
 
 You can also view the formal write-up.
